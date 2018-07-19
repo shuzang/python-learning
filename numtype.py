@@ -58,7 +58,7 @@ print(10+4.0)
 数值运算函数
 """
 print(abs(-10.01))
-print(divmod(10, 3))     #将余和商一起输出
+print(divmod(10, 3))     # 将余和商一起输出
 print(max(1, 9, 5, 4, 3))
 print(min(1, 9, 5, 4, 3))
 
