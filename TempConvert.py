@@ -1,7 +1,7 @@
 """
-file:TempConvert.py
+title:TempConvert.py
 author:shuzang
-time:2018-7-18 8:36:55
+date:2018-7-18 8:36:55
 brief:输入摄氏或华氏温度值，将其转换为另一种温度体系并输出
 """
 
