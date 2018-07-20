@@ -24,4 +24,3 @@ else:
     print("当你看到此句时未发生异常")
 finally:
     print("这一句一定会执行")
-    
