@@ -25,4 +25,3 @@ for i in range(len(xyz)):
     else:
         turtle.left(xyz[i][2])
 turtle.done()
-
