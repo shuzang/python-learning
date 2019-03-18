@@ -5,7 +5,7 @@
 
 ## turtle绘图窗体布局
 　　画布空间单位为像素，turtle.setup(width, height, startx, starty)是最常使用的画布初始设置函数，如下图所示  
-![turtle绘图窗体说明](https://github.com/shuzang/image/blob/master/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6MOOC_python/turtle%E7%BB%98%E5%9B%BE%E7%AA%97%E4%BD%93%E8%AF%B4%E6%98%8E.jpg?raw=true)
+![turtle绘图窗体说明](turtle绘图窗体说明.jpg)
 
 　　其中width和height两个参数为整数时，代表像素；为浮点数时，代表百分比，默认百分比width为50%，height为75%
 
