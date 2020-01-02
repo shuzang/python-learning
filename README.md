@@ -1,6 +1,8 @@
-　　于18年暑假开始python的系统学习，所听课程为中国大学MOOC平台嵩天老师的[Python语言程序设计](https://www.icourse163.org/course/BIT-268001)，该部分为python的基础学习，主要包括以下内容，整个课程的视频地址及课件资料在“课件与视频”文件夹中，下载这些资料的过程中用到了一个自动化下载工具，在course_download文件夹中，该项目地址及使用方法见该文件夹的“使用说明.md"文件
+## python_basic
 
-### python基础语法
+于18年暑假开始python的系统学习，所听课程为中国大学MOOC平台嵩天老师的[Python语言程序设计](https://www.icourse163.org/course/BIT-268001)，该部分为python的基础学习，主要包括以下内容，整个课程的视频地址及课件资料在“课件与视频”文件夹中，下载这些资料的过程中用到了一个自动化下载工具，在course_download文件夹中，该项目地址及使用方法见该文件夹的“使用说明.md"文件
+
+### 1.1 python基础语法
 
 - [x] 基本数据类型：整数、浮点数、复数；字符串；numtype.py和stringtype.py两个文件
 - [x] 程序的控制结构：分支结构与异常处理，遍历循环、无限循环；branchstruct.py和loopstruct.py两个文件
@@ -8,7 +10,7 @@
 - [x] 组合数据类型：集合类型，序列类型（包括元组和列表），字典类型；dictype.py,listtype.py,settype.py
 - [x] 文件和数据格式化：文件的使用，一二维数据的表示存储和处理
 
-### 相关库
+### 1.2 相关库
 
 - [x] turtle：基本图形绘制
 - [x] time：时间处理
@@ -17,7 +19,7 @@
 - [x] jieba：中文分词
 - [ ] wordcloud：中英文词云生成，安装依赖问题，未能完成
 
-### python实例
+### 1.3 python实例
 
 - [x] Python蟒蛇绘制：库_turtle文件夹/pythondraw.py
 - [x] 温度转换：TempConvert.py文件
@@ -28,3 +30,8 @@
 - [x] 文本词频统计:库_jieba文件夹/cuthamlet.py和cutgoriot.py
 - [x] 体育竞技分析:matchanalysis.py
 - [x] 第三方库安装脚本:位于"第三方库安装.md"
+
+## python_crawler
+
+关于Python网络爬虫与信息提取的学习
+
